@@ -1,0 +1,6 @@
+---
+group-id: "run.ratchet"
+artifact-id: "ratchet-quarkus-mongodb"
+versions:
+- "0.5.0"
+exclude-versions: []
